@@ -1,0 +1,23 @@
+#projects {
+    padding: 2rem;
+  }
+  
+  #projects h2 {
+    margin-bottom: 1rem;
+  }
+  
+  .project {
+    margin-bottom: 2rem;
+ 
+  }
+  
+  .project img {
+    max-width: 100%;
+    height: auto;
+    width: 400px;
+  }
+  
+  .project h3 {
+    margin: 1rem 0;
+  }
+  

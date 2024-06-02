@@ -1,0 +1,21 @@
+#skills {
+    padding: 2rem;
+  }
+  
+  #skills h2 {
+    margin-bottom: 1rem;
+  }
+  
+  #skills ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #skills ul li {
+    margin-bottom: 1rem;
+  }
+  
+  #skills ul li h3 {
+    margin: 0.5rem 0;
+  }
+  
