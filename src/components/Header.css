@@ -1,8 +1,9 @@
 header {
     background: #092922;
     color: #EB774D;
-    padding: 1rem 0;
+    padding: .2rem 0;
     text-align: center;
+    position: relative;
   }
   
   nav ul {
@@ -18,5 +19,15 @@ header {
   nav ul li a {
     color: #F6F6F6;
     text-decoration: none;
+  }
+  .portfolioImg {
+    height: 100px;
+    position: absolute;
+    opacity: .7;
+    top: 0;
+    left: 0;
+    z-index: 99;
+    padding-left: 0;
+    margin-left: 0;
   }
   

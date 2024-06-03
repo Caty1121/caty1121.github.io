@@ -1,11 +1,14 @@
 import React from 'react';
 import './Header.css';
+import portfolioPhotoImage from '../images/portfolioPhoto.png';
 
 const Header = () => {
   return (
     <header>
       <h1>CATY YOUNT</h1>
       <p>Web Developer | Programmer | Tech Enthusiast</p>
+      <img src={portfolioPhotoImage} alt="" className="portfolioImg"></img>    
+
       <nav>
         <ul>
           <li><a href="#about">About</a></li>
