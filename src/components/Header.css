@@ -1,5 +1,5 @@
 header {
-    background: #092922;
+    background: #2C645B;
     color: #EB774D;
     padding: .2rem 0;
     text-align: center;
@@ -21,9 +21,9 @@ header {
     text-decoration: none;
   }
   .portfolioImg {
-    height: 100px;
+    height: 300px;
     position: absolute;
-    opacity: .7;
+    opacity: .2;
     top: 0;
     left: 0;
     z-index: 99;

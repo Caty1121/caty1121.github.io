@@ -5,7 +5,7 @@ import portfolioPhotoImage from '../images/portfolioPhoto.png';
 const Header = () => {
   return (
     <header>
-      <h1>CATY YOUNT</h1>
+      <h1>Caty Yount</h1>
       <p>Web Developer | Programmer | Tech Enthusiast</p>
       <img src={portfolioPhotoImage} alt="" className="portfolioImg"></img>    
 
