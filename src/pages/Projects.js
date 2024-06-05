@@ -16,7 +16,7 @@ const Projects = () => {
       <div className="project" id="IWR">
         <img src={IWRhomepageImage} alt="IWR Homepage" />
         <h3>Interstellar Wellness Retreats</h3>
-        <p>A luxury destination wellness resort based in outer-space.</p>
+        <p>A luxury, wellness-based Destination Management Company (DMC) based in outerspace.</p>
         <a href="https://github.com/Caty1121/my-portfolio.git">GitHub Repo</a>
         <a href="https://project2.netlify.app">Live Site</a>
       </div>

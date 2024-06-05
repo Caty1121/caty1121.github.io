@@ -1,7 +1,7 @@
 header {
     background: #2C645B;
     color: #EB774D;
-    padding: .2rem 0;
+    padding: .1rem 0;
     text-align: center;
     position: relative;
   }
@@ -20,14 +20,3 @@ header {
     color: #F6F6F6;
     text-decoration: none;
   }
-  .portfolioImg {
-    height: 300px;
-    position: absolute;
-    opacity: .2;
-    top: 0;
-    left: 0;
-    z-index: 99;
-    padding-left: 0;
-    margin-left: 0;
-  }
-  
