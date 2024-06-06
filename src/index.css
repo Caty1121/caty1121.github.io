@@ -1,29 +1,28 @@
 :root {
   /***************** Color Pallete **********************/
-  --color-p300: #73AB95;
-  --color-p500: #092922;
-  --color-p700: #EB774D;
-
-  --color-s300: #2C645B;
-  --color-s500: #F6F6F6;
-  --color-s700: #9D552C;
-
-  --color-offset-100:#7CD4AC;
-  --color-offset-300:#F85458;
+  --color-p300: #05615a;
+  --color-p500: #0a251e;
+  --color-p700: #f3f8f9;
+  --color-s300: #70a8a5;
+  --color-s500: #254a5d;
 }
-
 
 body {
   margin: 0;
   font-family: "Roboto Slab", serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #7CD4AC;
+  background-color: #05615a;
+  color: #70a8a5;
 }
-
-
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+h1 {
+  color:#0a251e;
+}
+h3, h2 {
+  color: #f3f8f9;
 }

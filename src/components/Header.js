@@ -6,7 +6,6 @@ const Header = () => {
   return (
     <header>
       <h1>Caty Yount</h1>
-      <p>Web Developer | Programmer | Tech Enthusiast</p>
       <nav>
         <ul>
           <li><Link to="/">Home</Link></li>

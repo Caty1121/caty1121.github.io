@@ -1,6 +1,6 @@
 header {
-    background: #2C645B;
-    color: #EB774D;
+    background: #f3f8f9;
+    color:  #0a251e;
     padding: .1rem 0;
     text-align: center;
     position: relative;
@@ -17,6 +17,6 @@ header {
   }
   
   nav ul li a {
-    color: #F6F6F6;
+    color: #0a251e;
     text-decoration: none;
   }
