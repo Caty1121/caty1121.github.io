@@ -1,0 +1,43 @@
+footer {
+    background-color: #222;
+    color: #fff;
+    padding: 1em 0;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    margin-top: 5%;
+
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 1em;
+  }
+  
+  .logo img {
+    height: 50px; 
+  }
+  
+  .social-media {
+    display: flex;
+    gap: 1em; 
+  }
+  
+  .social-media a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .social-media a:hover {
+    text-decoration: underline;
+  }
+  
+  footer p {
+    margin: 0;
+    padding-top: 1em;
+    font-size: 0.9em;
+  }
+  

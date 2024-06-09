@@ -19,6 +19,7 @@
   #contact textarea {
     margin-bottom: 1rem;
     padding: 0.5rem;
+    width: 50%;
   }
   
   #contact button {
@@ -28,5 +29,8 @@
     border: #9D552C;
     cursor: pointer;
     border-radius: 12px;
+    width: 100px;
+    text-align: center; 
+    height: 100%;
   }
   

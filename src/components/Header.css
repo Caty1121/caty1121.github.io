@@ -2,18 +2,20 @@ html, body {
   padding: 0;
   margin: 0;
   height: 100%;
+  width: 100%;
 }
+
 
 header {
     height: 100vh;
     position: relative;
     overflow: hidden;
-    background: url('../images/header-image.jpg') center no-repeat;
+    background: url('../images/header-image1.jpg') center no-repeat;
     padding: 0;
     text-align: center;
     background-size: cover;
     margin-top: -.5em;
-
+    display: flex;
   }
 
   header .content {
@@ -31,7 +33,7 @@ header {
 
   header h1{
     margin: 0;
-    color:#254a5d;
+    color:#fff;
   }
 
   header hgroup {
@@ -46,7 +48,7 @@ header {
     padding: .80em 4em;
     background-color: rgba(0, 0, 0, 0.2);
     z-index: 2;
-    filter: blur(.5px);
+    filter: blur(.4px);
   }
 
   header .overlay {
@@ -66,7 +68,7 @@ header {
   }
 
   .site {
-    padding: 18em 0;
+    padding: 20em 0;
     text-align: center;
     background-color: #05615a;
     font-size: .8em;
@@ -100,12 +102,14 @@ header {
     top: 0;
     left: 0;
     background:#f3f8f9;
-    width: 100%
+    width: 100%;
+    padding: 1%;
+
   }
   .site nav a{
     padding: 10px 30px;
     font-size: 1.3em;
-    display: inline-block
+    display: inline-block;
   }
   .site nav a:hover{
     background: #70a8a5;
