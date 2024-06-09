@@ -14,14 +14,7 @@ const About = () => {
       <p>
         In addition to her technical skills, Caty has a passion for helping others. This is reflected in her transition from being a coach to becoming a programmer who actively assists colleagues in the workplace. She is committed to continuous learning and improvement, tackling Python practice problems one step at a time to build her expertise.
       </p>
-      <p> 
-        Caty's current projects include the development of StayConnect, a website designed to help the aging population understand technical trends, stay informed about potential scams, and provide education on common video-chat applications. This project highlights Caty's dedication to making technology accessible and useful for all age groups.
-      
-        When not immersed in coding, Caty enjoys family-oriented activities and has recently enjoyed a cruise with her young child. With a keen interest in cybersecurity, Caty is also excited about an upcoming ethical hacking class to further expand her skill set.
-      </p>  
-      <p>
-        Caty's portfolio showcases her work and projects, emphasizing her ability to build dynamic and responsive web applications using technologies like React and Django. Through this portfolio, Caty aims to demonstrate her skills to potential employers and continue growing as a versatile and knowledgeable developer.
-      </p>
+
     </section>
   );
 };

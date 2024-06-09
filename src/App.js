@@ -11,21 +11,19 @@ import './App.css';
 
 const App = () => {
   return (
-    <div className="app-container">
-      <Router>
-        <Header />
-        <div className="content">
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/projects" element={<Projects />} />
-          <Route path="/skills" element={<Skills />} />
-          <Route path="/contact" element={<Contact />} />
-        </Routes>
-        </div>
-        <Footer />
-      </Router>
-    </div>  
+    <Router>
+    <div>
+      <Header />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/contact" element={<Contact />} />
+        <Route path="/projects" element={<Projects />} />
+        <Route path="/skills" element={<Skills />} />
+      </Routes>
+      <Footer/>
+    </div>
+  </Router>
   );
 };
 
