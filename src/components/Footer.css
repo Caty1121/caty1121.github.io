@@ -1,5 +1,5 @@
 footer {
-    background-color: #222;
+    background-color: #05615a;
     color: #fff;
     padding: 1em 0;
     position: relative;
@@ -17,22 +17,20 @@ footer {
     padding: 0 1em;
   }
   
-  .logo img {
-    height: 50px; 
-  }
-  
   .social-media {
     display: flex;
-    gap: 1em; 
+    gap: 2em; 
   }
   
   .social-media a {
     color: #fff;
     text-decoration: none;
+    height: 44;
   }
   
   .social-media a:hover {
     text-decoration: underline;
+    color: #70a8a5;
   }
   
   footer p {
