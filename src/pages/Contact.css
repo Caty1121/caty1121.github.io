@@ -1,10 +1,16 @@
-#contact {
-    padding: 2rem;
+ .form-box {
+    box-shadow: 0 0 10px 5px #313631a5;
+    width: 75vh;
+    background-color: #70a8a5;
+    height:auto;
+    margin: 2em;
+  }
+  #contact {
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
-    padding: 20px;
+    
   }
   .form-right, .form-left {
   display: flex;
@@ -13,12 +19,12 @@
   }
   .form-right {
     order: 1;
-    margin-right: 20px;
+    margin: 20px;
   }
   
   .form-left {
     order: 2;
-    margin-left: 20px;
+    margin: 20px;
   }
   
   h2 {
@@ -35,8 +41,7 @@
   
   #contact form {
     display: flex;
-    flex-direction: column;
-    display: flex;
+    flex-wrap: wrap;
     flex-wrap: wrap;
     justify-content: center;
     width: 100%;
@@ -60,6 +65,7 @@
   }
   
   #contact button {
+    margin: 1em;
     padding: 0.75rem;
     background: #EB774D;
     color: #f3f8f9;
@@ -75,3 +81,6 @@
     background-color: #70a8a5;
   }
   
+  #message {
+    height: 17vh;
+  }

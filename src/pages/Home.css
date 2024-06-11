@@ -12,3 +12,17 @@
   font-size: 1.25rem;
   animation: fadeIn 3s ease-in;
 }
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+
+.portfolioPhotoImage {
+  max-width: 100%;
+  background-color: #254a5d;
+  height: 40vh;
+  opacity: .4;
+  box-shadow: 0 0 10px 5px #000;
+}
