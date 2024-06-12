@@ -3,12 +3,10 @@
   padding: 20px;
   background-color: #05615a;
 }
-
 .home-title {
   font-size: 2.5rem;
   animation: fadeIn 2s ease-in;
 }
-
 .home-description {
   font-size: 1.25rem;
   animation: fadeIn 3s ease-in;
@@ -19,9 +17,7 @@
   align-items: center;
   height: 50vh;
   background-color: #05615a;
-
 }
-
 .portfolioPhotoImage {
   max-width: 100%;
   background-color: #254a5d;
@@ -30,7 +26,6 @@
   box-shadow: 0 0 10px 5px #000;
   border-radius: 20px;
 }
-
 label {
   color: orange;
 }

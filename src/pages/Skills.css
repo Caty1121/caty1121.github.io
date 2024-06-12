@@ -2,19 +2,16 @@
     padding: 2rem;
     background-color: #05615a;
   }
-   
   #skills ul {
     list-style: none;
     padding: 0;
   }
-  
   #skills ul li {
     margin-bottom: 1rem;
   }
   h2, h3 {
   color: #f3f8f9;
   }
-
   .progress-container {
     width: 40%;
     margin-bottom: 1rem; 

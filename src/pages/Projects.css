@@ -1,29 +1,21 @@
 #projects {
     padding: 2rem;
     background-color: #05615a;
-  
   }
-  
   #projects h2 {
     margin-bottom: 1rem;
     color: #f3f8f9;
-
-  }
-  
+  }  
   .project {
     margin-bottom: 2rem;
- 
   }
-  
   .project img {
     max-width: 100%;
     height: auto;
     width: 400px;
   }
-  
   .project h3 {
     margin: 1rem 0;
     color: #f3f8f9;
-
   }
   
