@@ -1,10 +1,28 @@
   #about h2 {
     margin-bottom: 1rem;
+    background-color: #05615a;
+    border: none; /* Removes any border */
+    box-shadow: none; /* Removes any box shadow */
   }
   
   #about p {
     margin-bottom: 1.5rem;
     margin-left: 2rem;
     margin-right: 2rem;
+    background-color: #05615a;
+    border: none; /* Removes any border */
+    box-shadow: none; /* Removes any box shadow */
   }
 
+
+  #about {
+    background-color: #05615a;
+    border: none; /* Removes any border */
+    box-shadow: none; /* Removes any box shadow */
+  }
+
+  /* this turns the the paragrph section green but still have a header bar
+  section#about {
+    background-color: #05615a;
+  }
+    */

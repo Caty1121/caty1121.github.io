@@ -1,22 +1,31 @@
  .form-box {
     box-shadow: 0 0 10px 5px #313631a5;
     width: 75vh;
-    background-color: #70a8a5;
+    background-color: #739694;
     height:auto;
     margin: 2em;
+    border-radius: 20px;
   }
+
+  .form-box:hover{
+    transform: scale(1.01);
+  }
+
   #contact {
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
-    
   }
+
   .form-right, .form-left {
   display: flex;
   flex-direction: column;
   flex: 1;
+  border: none;
+  background-color:  #739694;
   }
+
   .form-right {
     order: 1;
     margin: 20px;
@@ -77,10 +86,23 @@
     height: 100%;
     align-self: center;
   }
+
   #contact button:hover {
-    background-color: #70a8a5;
+    background-color: #254a5d;
   }
   
   #message {
     height: 17vh;
   }
+
+  input {
+    background-color: #f3f8f9;
+  }
+
+  input:focus {
+    border: 2px solid #9D552C;
+  }
+  section#contact {
+  background-color: #05615a;
+  }
+ 

@@ -1,11 +1,8 @@
 #skills {
     padding: 2rem;
+    background-color: #05615a;
   }
-  
-  #skills h2 {
-    margin-bottom: 1rem;
-  }
-  
+   
   #skills ul {
     list-style: none;
     padding: 0;
@@ -14,8 +11,11 @@
   #skills ul li {
     margin-bottom: 1rem;
   }
-  
-  #skills ul li h3 {
-    margin: 0.5rem 0;
+  h2, h3 {
+  color: #f3f8f9;
   }
-  
+
+  .progress-container {
+    width: 40%;
+    margin-bottom: 1rem; 
+  }

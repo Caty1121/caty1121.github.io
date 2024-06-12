@@ -1,9 +1,13 @@
 #projects {
     padding: 2rem;
+    background-color: #05615a;
+  
   }
   
   #projects h2 {
     margin-bottom: 1rem;
+    color: #f3f8f9;
+
   }
   
   .project {
@@ -19,5 +23,7 @@
   
   .project h3 {
     margin: 1rem 0;
+    color: #f3f8f9;
+
   }
   
