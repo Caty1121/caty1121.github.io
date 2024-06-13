@@ -31,6 +31,9 @@
   .language {
     padding-left: 1.5em;
   }
+  .tool-box-content{
+    padding-left: .75em;
+  }
   #skills ul {
     list-style: none;
     padding: 0;
@@ -59,7 +62,7 @@
       width: 100%;
     }
   
-    .language {
+    .language, .tool-box-content {
       padding-left: 0.5em;
     }
   }
