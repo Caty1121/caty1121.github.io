@@ -10,7 +10,7 @@ const Home = () => {
       </div>
       <h2 className="home-title">Hi, I'm Caty. </h2>
         <p className="home-description">
-          Web Dev Specializing in E-commerce & Dynamic Web Solutions
+          Web Developer Specializing in E-commerce & Dynamic Web Solutions.
         </p>
     </div>
   );

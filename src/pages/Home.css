@@ -2,10 +2,13 @@
   text-align: center;
   padding: 20px;
   background-color: #05615a;
+  position: relative;
+  z-index: -99;
 }
 .home-title {
   font-size: 2.5rem;
   animation: fadeIn 2s ease-in;
+  padding: 1em;
 }
 .home-description {
   font-size: 1.25rem;

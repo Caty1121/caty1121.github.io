@@ -1,5 +1,7 @@
 #projects-box {
   background-color: #05615a;
+  position: relative;
+  z-index: -99;
 }
 #projects {
   display: grid;
@@ -7,6 +9,8 @@
   gap: 20px;
   padding: 2em;
   background-color: #05615a;
+  position: relative;
+  z-index: 2;
   }
 #projects h2 {
   text-align: center;
@@ -37,5 +41,23 @@
 .project-image:hover {
   transform: scale(1.1);
   }
-
+  @media (max-width: 768px) {
+    #projects {
+      grid-template-columns: 1fr; /* Single column for tablets and smaller screens */
+    }
+  
+    .project {
+      padding: 1em;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    #projects {
+      padding: 1em;
+    }
+  
+    .project {
+      padding: 0.5em;
+    }
+  }
   
