@@ -34,7 +34,7 @@ Welcome to my web development portfolio! Hi, I'm Caty, a web developer specializ
 
 ### ActivityNest
 
-![ActivityNest Homepage](./src/images/coming-soon-image.png) (Update with the correct image once available)
+![ActivityNest Homepage](./src/images/coming-soon-image.png)
 
 **Description**: ActivityNest is a subscription-based service aimed at getting families together and outdoors through curated activities and resources.
 
