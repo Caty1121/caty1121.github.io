@@ -8,8 +8,10 @@ const Home = () => {
       <div className="container">
         <img src={portfolioPhotoImage} alt="portfolioPhoto" class="portfolioPhotoImage"/>
       </div>
-      <h2 className="home-title">Hi, I'm Caty.</h2>
-      <p className="home-description">This is the home page.</p>
+      <h2 className="home-title">Hi, I'm Caty. </h2>
+        <p className="home-description">
+          Web Dev Specializing in E-commerce & Dynamic Web Solutions
+        </p>
     </div>
   );
 };
