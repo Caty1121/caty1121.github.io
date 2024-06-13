@@ -10,6 +10,7 @@
 .home-description {
   font-size: 1.25rem;
   animation: fadeIn 3s ease-in;
+  color: #f3f8f9;
 }
 .container {
   display: flex;
@@ -22,7 +23,7 @@
   max-width: 100%;
   background-color: #254a5d;
   height: 50vh;
-  opacity: .3;
+  opacity: .4;
   box-shadow: 0 0 10px 5px #000;
   border-radius: 20px;
 }

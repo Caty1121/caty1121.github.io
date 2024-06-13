@@ -6,7 +6,7 @@ footer {
     width: 100%;
     bottom: 0;
     text-align: center;
-    margin-top: 5%;
+
   }
   
   .footer-content {
@@ -35,7 +35,7 @@ footer {
   
   footer p {
     margin: 0;
-    padding-top: 1em;
+    padding: 1em;
     font-size: 0.9em;
   }
   

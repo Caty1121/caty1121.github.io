@@ -1,18 +1,40 @@
+#skills-box {
+  background-color: #05615a;
+}
 #skills {
-    padding: 2rem;
-    background-color: #05615a;
+    background-color: #70a8a5;
+    display: flex;
+    justify-content: space-between; 
+    align-items: flex-start; 
+    gap: 5em; 
+    border-radius: 20px;
+    padding: 1em;
+    max-width: 1200px;
+    margin: 0 auto;
+    box-shadow: 0 0 10px 5px #313631a5;
+  }
+  #skills:hover {
+    transform: scale(1.01);
+  }
+  .intro, .tech-stack, .tool-box {
+    flex: 1;
+  }
+  .language {
+    padding-left: 1.5em;
   }
   #skills ul {
     list-style: none;
     padding: 0;
   }
-  #skills ul li {
-    margin-bottom: 1rem;
+  h3, h4, .intro {
+  color: #0a251e;
+  padding-bottom: 1em;
   }
-  h2, h3 {
-  color: #f3f8f9;
+  h2 {
+    color:#f3f8f9;
+    padding-bottom: 1em;
   }
   .progress-container {
-    width: 40%;
+    width: 50%;
     margin-bottom: 1rem; 
   }

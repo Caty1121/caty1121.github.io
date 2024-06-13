@@ -8,6 +8,7 @@
   }  
   .project {
     margin-bottom: 2rem;
+    color: #f3f8f9;
   }
   .project img {
     max-width: 100%;
@@ -17,5 +18,8 @@
   .project h3 {
     margin: 1rem 0;
     color: #f3f8f9;
+  }
+  .project-image:hover {
+    transform: scale(1.1);
   }
   
