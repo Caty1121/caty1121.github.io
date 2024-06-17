@@ -2,7 +2,7 @@ import React from 'react';
 import './Projects.css';
 import IWRhomepageImage from '../images/IWRhomepage.png'; 
 import StayConnecthomepageImage from '../images/StayConnecthomepage.png'
-import ComingSoonImage from '../images/coming-soon-image.png'
+import ActivityNestImage from '../images/ActivityNest.png'
 
 const Projects = () => {
   return (
@@ -25,8 +25,9 @@ const Projects = () => {
             <div className="project" id="ActivityNest">
               <img src={ComingSoonImage} alt="ActivityNest" class="project-image"/>
                 <h3>ActivityNest</h3>
-                  <p>TODO: A suscription based service getting families together & outdoors.</p>
-                  <a href="https://github.com/Caty1121/my-portfolio.git">GitHub Repo</a>
+                  <p>A suscription based service getting families together & outdoors.</p>
+                  <a href="https://github.com/Caty1121/actitvitynest
+                  .git">GitHub Repo</a>
             </div>      
           </div>
         </div>  
