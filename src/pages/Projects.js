@@ -13,19 +13,19 @@ const Projects = () => {
             <div className="project" id="stayConnect">
               <img src={StayConnecthomepageImage} alt="StayConnect Homepage" class="project-image"/>
                 <h3>StayConnect</h3>
-                  <p>A site to empower and educate our aging population to confidently navigate and embrace modern technology.</p>
+                  <h5>A site to empower and educate our aging population to confidently navigate and embrace modern technology.</h5>
                   <a href="https://github.com/username/stayconnect">GitHub Repo</a>
             </div>
             <div className="project" id="IWR">
               <img src={IWRhomepageImage} alt="IWR Homepage" class="project-image"/>
                 <h3>Interstellar Wellness Retreats</h3>
-                  <p>A luxury, wellness-based Destination Management Company (DMC) based in outerspace.</p>
+                  <h5>A luxury, wellness-based Destination Management Company (DMC) based in outerspace.</h5>
                   <a href="https://github.com/Caty1121/my-portfolio.git">GitHub Repo</a>
             </div>
             <div className="project" id="ActivityNest">
-              <img src={ComingSoonImage} alt="ActivityNest" class="project-image"/>
+              <img src={ActivityNestImage} alt="ActivityNest" class="project-image"/>
                 <h3>ActivityNest</h3>
-                  <p>A suscription based service getting families together & outdoors.</p>
+                  <h5>A suscription based service getting families together & outdoors.</h5>
                   <a href="https://github.com/Caty1121/actitvitynest
                   .git">GitHub Repo</a>
             </div>      

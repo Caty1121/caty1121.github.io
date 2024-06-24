@@ -25,10 +25,9 @@
 .project img {
   max-width: 100%;
   height: auto;
-  width: 400px;
+  width: 100vh;
   }
 .project h3 {
-  
   margin: 1rem 0;
   color: #f3f8f9;
   }
@@ -43,7 +42,7 @@
   }
   @media (max-width: 768px) {
     #projects {
-      grid-template-columns: 1fr; /* Single column for tablets and smaller screens */
+      grid-template-columns: 1fr;
     }
   
     .project {

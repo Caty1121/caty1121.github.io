@@ -1,6 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Bellota:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
-
-
 :root {
   /***************** Color Pallete **********************/
   --color-p300: #05615a;
@@ -9,7 +7,6 @@
   --color-s300: #70a8a5;
   --color-s500: #254a5d;
 }
-
 body {
   margin: 0;
   font-family: "Bellota", system-ui;
@@ -18,34 +15,34 @@ body {
   background-color: #05615a;
   color: #70a8a5;
 }
-
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-h1 {
-  color: #f3f8f9;;
-}
-h3, h2 {
+h5, h4, h3, h2, h1 {
   color: #f3f8f9;
 }
-/* Bellota font styles */
 .bellota-light {
   font-family: "Bellota", system-ui;
   font-weight: 300;
   font-style: normal;
+  font-size: 25px;
 }
 
 .bellota-regular {
   font-family: "Bellota", system-ui;
   font-weight: 400;
   font-style: normal;
+  font-size: 25px;
+
 }
 
 .bellota-bold {
   font-family: "Bellota", system-ui;
   font-weight: 700;
   font-style: normal;
+  font-size: 25px;
+
 }
 
 .bellota-light-italic {
