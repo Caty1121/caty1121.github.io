@@ -24,47 +24,46 @@ const Skills = () => {
           <ul>
             <h3>Tech Stack</h3>
               <li>
-                <ProgressBar now={100} striped label="" variant="info"/>
+                <div className="progress-container">
+                  <ProgressBar now={100} striped label="" variant="info"/>
+                </div>
                 <h4 class="language">HTML</h4>
-                <div className="progress-container">
-                </div>
               </li>
               <li>
-                <ProgressBar now={90} striped label="" variant="info"/>
+                <div className="progress-container">
+                  <ProgressBar now={90} striped label="" variant="info"/>
+                </div>
                 <h4 class="language">CSS</h4>
-                <div className="progress-container">
-                </div>
               </li>
               <li>
-                <ProgressBar now={75} striped label="" variant="danger"/>
+                <div className="progress-container">
+                  <ProgressBar now={75} striped label="" variant="danger"/>
+                </div>
                 <h4 class="language">JavaScript</h4>
-                <div className="progress-container">
-                </div>
               </li>
               <li>
-                <ProgressBar now={80} striped label="" variant="warning"/>
+                <div className="progress-container">
+                  <ProgressBar now={80} striped label="" variant="warning"/>
+                </div>
                 <h4 class="language">Python</h4>
-                <div className="progress-container">
-                </div>
               </li>
               <li>
-                <ProgressBar now={70} striped label="" variant="dark"/>
+                <div className="progress-container">
+                  <ProgressBar now={70} striped label="" variant="dark"/>
+                </div>
                 <h4 class="language">SQL</h4>
-                <div className="progress-container">
-                </div>
               </li>
               <li>
-                <ProgressBar now={70} striped label="" variant="primary"/>
-                <h4 class="language">React</h4>
                 <div className="progress-container">
                   <ProgressBar now={70} striped label="" variant="primary"/>
                 </div>
+                <h4 class="language">React</h4>
               </li>
               <li>
-                <ProgressBar now={60} striped label="" variant="success"/>
-                <h4 class="language">Django</h4>
                 <div className="progress-container">
+                  <ProgressBar now={60} striped label="" variant="success"/>
                 </div>
+                <h4 class="language">Django</h4>
               </li>
           </ul>
         </section>
