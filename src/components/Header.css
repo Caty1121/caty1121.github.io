@@ -12,7 +12,7 @@ header {
     height: 100vh;
     position: relative;
     overflow: hidden;
-    background: url('../images/header-image1.jpg') center no-repeat;
+    background: url('../images/header-image.jpg') center no-repeat;
     padding: 0;
     text-align: center;
     background-size: cover;
