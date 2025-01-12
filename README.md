@@ -21,7 +21,7 @@ Welcome to my web development portfolio! Hi, I'm Caty, a web developer specializ
 
 ### Interstellar Wellness Retreats
 
-![Interstellar Wellness Retreats Homepage](./src/images/IWRhomepage.png)
+![Interstellar Wellness Retreats Homepage](./src/images/ActivityNest.png)
 
 **Description**: Interstellar Wellness Retreats is a luxury, wellness-based Destination Management Company (DMC) based in outer space.
 
