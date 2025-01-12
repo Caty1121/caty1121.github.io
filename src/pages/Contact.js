@@ -12,7 +12,7 @@ const Contact = () => {
             <label for="name"></label>
             <input type="text" id="name" name="name" placeholder="Name"/>
             <label for="email"></label>
-            <input type="email" id="email" name="email" placeholder="email"/>
+            <input type="email" id="email" name="email" placeholder="Email"/>
             <label for="phone"></label>
             <input type="phone" id="phone" name="phone" placeholder="Phone Number"/>
           </div>
